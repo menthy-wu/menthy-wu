@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Menthy Wu
-- 🌱 I’m a CS major at University of California, Riverside
-- 📫 ins: wmx_owo
+- 🌱 I’m a MLE at Sage 🌿
